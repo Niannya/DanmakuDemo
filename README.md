@@ -1,22 +1,22 @@
-# Danmaku Demo
+# 弹幕射击 Demo
 
-A small 2D bullet-hell shooter made while learning Unity and C#.
+这是一个在学习 Unity 和 C# 过程中制作的小型 2D 弹幕射击游戏。
 
-## Features
+## 已实现功能
 
-- Player movement, shooting, lives, bombs, power levels, and respawning
-- Multiple enemy bullet patterns and enemy waves
-- Boss fight with a health bar
-- Score and game-over/game-clear UI
-- Tilemap background and explosion effects
-- Bullet object pooling
+- 玩家移动、射击、残机、炸弹、火力等级与复活
+- 多种敌人弹幕和敌人波次
+- 带有血条的 Boss 战
+- 分数、游戏结束与通关界面
+- Tilemap 背景和爆炸特效
+- 子弹对象池
 
-## Requirements
+## 运行环境
 
 - Unity 2022.3.62f2
 
-Open the project directory in Unity Hub, then open the main scene under `Assets/Scenes`.
+使用 Unity Hub 打开项目目录，然后打开 `Assets/Scenes` 下的主场景即可运行。
 
-## Assets
+## 素材说明
 
-This project uses Kenney asset packs. See the license files included with the imported assets for details.
+项目使用了 Kenney 素材包。具体许可信息请查看随素材导入的许可证文件。
